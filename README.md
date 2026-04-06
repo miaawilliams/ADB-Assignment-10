@@ -10,7 +10,7 @@ A REST API for managing tasks with user authentication, built with Node.js, Expr
 - User-specific task management
 - SQLite database with Sequelize ORM
 
-## API Endpoints
+## API Endpoints 
 
 ### Authentication
 - `POST /api/register` - Register a new user
